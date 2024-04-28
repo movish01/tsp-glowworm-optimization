@@ -1,0 +1,43 @@
+Number of Threads: 1
+Parallel Approach Time: 338 ms
+Best Tour: 9 1 4 8 11 15 0 3 12 6 7 5 16 13 14 2 10 
+Best Distance: 2085
+
+Number of Threads: 2
+Parallel Approach Time: 182 ms
+Best Tour: 4 8 11 15 0 3 12 6 7 5 16 13 14 2 10 9 1 
+Best Distance: 2085
+
+Number of Threads: 4
+Parallel Approach Time: 127 ms
+Best Tour: 7 6 12 3 0 15 11 8 4 1 9 10 2 14 13 16 5 
+Best Distance: 2085
+
+Number of Threads: 8
+Parallel Approach Time: 98 ms
+Best Tour: 15 0 3 12 6 7 5 16 13 14 2 10 9 1 4 8 11 
+Best Distance: 2085
+
+
+
+Number of Threads: 1
+Parallel Approach Time: 4053 ms
+Best Tour: 44 34 3 25 1 28 33 40 15 21 2 22 13 24 12 10 11 14 39 0 7 8 37 30 43 17 6 27 5 36 18 26 16 42 29 35 45 32 19 46 20 31 38 47 4 41 23 9 
+Best Distance: 33581
+
+Number of Threads: 2
+Parallel Approach Time: 2151 ms
+Best Tour: 44 34 3 25 1 28 33 40 15 21 2 22 13 24 12 10 11 14 39 0 7 8 37 30 43 17 6 27 5 36 18 26 16 42 29 35 45 32 19 46 20 31 38 47 4 41 23 9 
+Best Distance: 33581
+
+Number of Threads: 4
+Parallel Approach Time: 1492 ms
+Best Tour: 12 24 13 22 2 21 15 40 33 28 1 25 3 34 44 9 23 41 4 47 38 31 20 46 19 32 45 35 29 42 16 26 18 36 5 27 6 17 43 30 37 8 7 0 39 14 11 10 
+Best Distance: 33581
+
+Number of Threads: 8
+Parallel Approach Time: 1133 ms
+Best Tour: 44 9 23 41 4 47 38 31 20 46 19 32 45 35 29 42 16 26 18 36 5 27 6 17 43 30 37 7 0 8 39 14 11 10 12 24 13 22 2 21 15 40 33 28 1 25 3 34 
+Best Distance: 33551
+
+
